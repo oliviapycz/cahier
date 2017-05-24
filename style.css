@@ -1,0 +1,20 @@
+*{
+  margin: 50px;
+  padding: 0;
+}
+
+header{
+  text-align: center;
+  margin-bottom: 30px;
+}
+h3{
+  text-decoration: underline;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+h4{
+  margin-left: 40px;
+}
+h5{
+  margin-left: 60px;
+}
